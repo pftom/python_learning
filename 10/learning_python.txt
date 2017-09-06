@@ -1,0 +1,3 @@
+In Python you can effective handle data
+In Python you can use Standard method whatever you want
+In Python you can use graceful writing manner
